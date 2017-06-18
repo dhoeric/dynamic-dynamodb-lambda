@@ -1,3 +1,6 @@
+_AWS official supported auto-scaling on DynamoDB_  
+_See: https://aws.amazon.com/blogs/aws/new-auto-scaling-for-amazon-dynamodb_
+
 # Dynamic DynamoDB - lambda
  Use DynamoDB autoscaling with lambda!<br />
  It's [Dynamic DynamoDB](https://github.com/sebdah/dynamic-dynamodb)'s simple lambda version
